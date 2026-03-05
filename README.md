@@ -1,8 +1,8 @@
 # CG-Lab 粒子群效果展示
 
 ## 效果演示
-<video src="demo/粒子效果.mp4" width="800" controls>
-  点击下载视频：<a href="demo/粒子效果.mp4">粒子效果.mp4</a>
+<video src="demo/particle_effect.mp4" width="800" controls>
+  点击下载视频：<a href="demo/particle_effect.mp4">particle_effect.mp4</a>
 </video>
 
 ## 项目说明

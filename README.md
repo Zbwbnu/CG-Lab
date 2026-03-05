@@ -5,7 +5,7 @@
   点击下载视频：<a href="demo/particle_effect.mp4">particle_effect.mp4</a>
 </video>
 
-![alt text](particle_effect-ezgif.com-video-to-gif-converter.gif)
+![alt text](particle_effect.gif)
 
 ## 项目说明
 - 项目核心代码存放于 src/ 目录

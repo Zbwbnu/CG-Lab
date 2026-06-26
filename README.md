@@ -1,5 +1,6 @@
 # CG-Lab 粒子群效果展示
 
+ -占博文 202411081043 人工智能
 ## 效果演示
 <video src="demo/particle_effect.mp4" width="800" controls>
   点击下载视频：<a href="demo/particle_effect.mp4">particle_effect.mp4</a>
